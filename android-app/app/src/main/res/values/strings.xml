@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="instructions">
+        Tap Start to begin scanning for the GPS device.\n
+        The app will automatically connect when the device is found.\n
+        Location updates will appear above.
+    </string>
+</resources>
