@@ -1,5 +1,6 @@
 #include <Arduino.h>
 #include <unity.h>
+#include <string.h>
 #include "message_protocol.h"
 
 // Test message formatting

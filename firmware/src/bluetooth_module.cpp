@@ -1,5 +1,6 @@
 #include "bluetooth_module.h"
 #include "logger.h"
+#include <esp_system.h>
 
 static const char* TAG = "Bluetooth";
 

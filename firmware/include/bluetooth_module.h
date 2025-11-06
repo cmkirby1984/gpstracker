@@ -122,9 +122,6 @@ private:
 
     // Event notification
     void notifyEvent(BluetoothEvent event);
-
-    // Bluetooth callback handlers
-    static void btCallback(esp_spp_cb_event_t event, esp_spp_cb_param_t *param);
 };
 
 // Bluetooth utility functions
