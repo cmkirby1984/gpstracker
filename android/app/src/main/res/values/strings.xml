@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fleet GPS Tracker</string>
+    <string name="settings">Settings</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="status">Status</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="last_location">Last Location</string>
+    <string name="no_location">No location received yet</string>
+    <string name="messages_received">Messages: %d</string>
+    <string name="emails_sent">Emails: %d</string>
+
+    <!-- Permissions -->
+    <string name="bluetooth_permission_required">Bluetooth permissions required</string>
+    <string name="notification_permission_required">Notification permission required</string>
+
+    <!-- Configuration -->
+    <string name="esp32_mac_address">ESP32 MAC Address</string>
+    <string name="esp32_device_name">ESP32 Device Name</string>
+    <string name="smtp_host">SMTP Host</string>
+    <string name="smtp_port">SMTP Port</string>
+    <string name="smtp_user">SMTP Username</string>
+    <string name="smtp_password">SMTP Password</string>
+    <string name="smtp_from_email">From Email</string>
+    <string name="smtp_to_emails">To Emails (comma separated)</string>
+    <string name="auto_connect">Auto Connect</string>
+    <string name="auto_send_email">Auto Send Email</string>
+
+    <!-- Messages -->
+    <string name="email_sent">Email sent successfully</string>
+    <string name="email_failed">Email sending failed</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="configure_esp32">Configure ESP32 MAC address in settings</string>
+</resources>

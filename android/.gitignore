@@ -1,0 +1,42 @@
+# Android Build Files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Gradle
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# NDK
+obj/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Secrets
+secrets.properties
+smtp_config.json
+email_credentials.json
+
+# Local configuration
+local.properties

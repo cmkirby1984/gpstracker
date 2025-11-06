@@ -1,0 +1,17 @@
+# PlatformIO
+.pio/
+.vscode/
+.pioenvs/
+.piolibdeps/
+.clang_complete
+.gcc-flags.json
+
+# Build artifacts
+*.o
+*.elf
+*.bin
+
+# IDE
+*.swp
+*.swo
+*~
